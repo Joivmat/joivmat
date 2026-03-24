@@ -1,68 +1,71 @@
 # 👋 Hola, soy Josué Iván Mata
 
-Desarrollador Web **Full Stack Junior** con enfoque en frontend y experiencia práctica construyendo aplicaciones web funcionales.
+Desarrollador Backend / Full Stack Jr con experiencia en desarrollo de aplicaciones web utilizando PHP, MySQL y JavaScript.
 
-Autodidacta, con capacidad de aprendizaje rápido y orientado a la mejora continua. He trabajado en proyectos donde implemento desde interfaces hasta lógica de negocio y manejo de bases de datos.
+He desarrollado soluciones completas de forma independiente, implementando lógica de negocio, gestión de bases de datos y consumo de APIs REST.
 
 ---
 
 ## 🚀 Tecnologías principales
-- HTML5, CSS3, JavaScript
-- PHP (enfoque en backend y lógica de negocio)
-- MySQL (consultas, diseño y manejo de datos)
-- Laravel (en aprendizaje activo)
+
+- PHP (POO, lógica backend)
+- MySQL (diseño, consultas, optimización básica)
+- JavaScript, HTML5, CSS3
+- APIs REST
 - Git & GitHub
 
----
+Actualmente aprendiendo:
+- Laravel (estructura MVC y buenas prácticas)
+- React + TypeScript
+- Docker
+- Postman
 
-**Actualmente aprendiendo:**
-- Laravel (estructura de aplicaciones y buenas prácticas)
-- React + TypeScript (componentes y frontend moderno)
-- Docker (entornos de desarrollo)
-- Postman (pruebas de APIs)
+---
 
 ## 🧩 Proyecto destacado
 
 ### 🏠 Sistema de Gestión Inmobiliaria
-Aplicación web full stack desarrollada con PHP y MySQL.
 
-**Incluye:**
-- CRUD completo de propiedades
-- Autenticación de usuarios
+Aplicación web full stack desarrollada para la gestión de propiedades, usuarios e información inmobiliaria.
+
+### 🔧 Funcionalidades
+
+- Sistema de autenticación de usuarios
 - Panel de administración
-- Gestión de imágenes
-- Validaciones y seguridad básica
+- CRUD completo de propiedades
+- Gestión de usuarios e imágenes
+- Validación de datos en frontend y backend
+- Consumo de APIs REST
 
-🔗 Demo: https://bienes-raices.rf.gd/
+### 💡 Enfoque del proyecto
+
+Desarrollado como solución funcional para la administración de información inmobiliaria, aplicando buenas prácticas en estructura, validación de datos y organización del código.
+
+### 🔗 Demo
+https://bienes-raices.rf.gd/
+
 ---
 
-## 💡 Experiencia práctica
-- Desarrollo y mantenimiento de aplicaciones web propias
-- Implementación de funcionalidades nuevas (CRUD, autenticación)
-- Consultas y gestión de bases de datos MySQL
-- Organización de código y mejora progresiva del proyecto
+## 💼 Experiencia práctica
+
+- Desarrollo de aplicaciones web full stack
+- Implementación de funcionalidades (CRUD, autenticación, APIs)
+- Diseño y gestión de bases de datos MySQL
+- Mantenimiento y mejora de sistemas existentes
 - Consumo de APIs REST
 
 ---
 
-## 📌 En qué estoy enfocado actualmente
+## 📈 Enfoque actual
+
 - Mejores prácticas de desarrollo backend
-- Refactorización a MVC y POO
-- Optimización y mantenimiento de código existente
-- Trabajo colaborativo y control de versiones
-
----
-
-## 🤝 Habilidades profesionales
-- Resolución de problemas
-- Organización y gestión del tiempo
-- Comunicación clara
-- Trabajo en equipo
+- Arquitectura MVC y programación orientada a objetos
+- Optimización y mantenimiento de código
+- Trabajo colaborativo con control de versiones
 
 ---
 
 ## 📫 Contacto
+
 - LinkedIn: www.linkedin.com/in/josué-iván-mata
 - Email: joivmath@gmail.com
-
-

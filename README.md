@@ -65,7 +65,26 @@ He trabajado en funcionalidades como:
 
 ---
 
-## 🧩 Proyecto destacado
+## 🧩 Proyectos destacados
+
+### 📊 Excel Data Automation
+
+Automatización desarrollada en **Python** para consolidar, normalizar y validar información proveniente de múltiples archivos Excel.
+
+Incluye:
+
+- Consolidación automática de archivos `.xlsx`.
+- Limpieza y normalización de datos.
+- Validación de registros.
+- Detección de duplicados e inconsistencias.
+- Separación de registros válidos y registros con errores.
+- Generación automática de reportes Excel.
+- Métricas de procesamiento.
+- Pruebas automatizadas con pytest.
+
+🔗 **Repositorio:** [excel-data-automation](https://github.com/Joivmat/excel-data-automation)
+
+---
 
 ### 🏠 Sistema de Gestión Inmobiliaria
 
@@ -73,18 +92,16 @@ Aplicación web para administrar propiedades e información inmobiliaria mediant
 
 Incluye:
 
-* Autenticación de usuarios.
-* Panel de administración.
-* CRUD de propiedades.
-* Gestión de imágenes.
-* Validaciones en frontend y backend.
-* Persistencia de información en MySQL.
-* Integración con servicios externos mediante API.
+- Autenticación de usuarios.
+- Panel de administración.
+- CRUD de propiedades.
+- Gestión de imágenes.
+- Validaciones en frontend y backend.
+- Persistencia de información en MySQL.
+- Integración con servicios externos mediante API.
 
-🔗 **Repositorio:** [Bienes-Raices](https://github.com/Joivmat/Bienes-Raices)
+🔗 **Repositorio:** [Bienes-Raices](https://github.com/Joivmat/Bienes-Raices)  
 🌐 **Demo:** [bienes-raices.rf.gd](https://bienes-raices.rf.gd/)
-
-> Actualmente estoy ampliando mi portafolio con proyectos enfocados en backend con Django y automatización de datos con Python.
 
 ---
 

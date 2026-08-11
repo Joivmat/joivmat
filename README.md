@@ -1,24 +1,67 @@
 # 👋 Hola, soy Josué Iván Mata
 
-Desarrollador Backend / Full Stack Jr con experiencia en desarrollo de aplicaciones web utilizando PHP, MySQL y JavaScript.
+### Desarrollador Backend Jr. | PHP/Laravel · Python/Django · MySQL
 
-He desarrollado soluciones completas de forma independiente, implementando lógica de negocio, gestión de bases de datos y consumo de APIs REST.
+Desarrollador enfocado principalmente en **backend y desarrollo de aplicaciones web**, con experiencia práctica construyendo, manteniendo y mejorando sistemas utilizados en entornos operativos reales.
+
+Trabajo con **PHP, Laravel, Python, Django y bases de datos relacionales**, participando en la implementación de lógica de negocio, validaciones, gestión de usuarios y permisos, consultas, importación y procesamiento de información.
+
+También utilizo **Python para automatización y procesamiento de datos**, principalmente con archivos Excel y tareas que requieren limpieza, validación, transformación o consolidación de información.
 
 ---
 
-## 🚀 Tecnologías principales
+## 🛠️ Tecnologías
 
-- PHP (POO, lógica backend)
-- MySQL (diseño, consultas, optimización básica)
-- JavaScript, HTML5, CSS3
-- APIs REST
-- Git & GitHub
+**Backend**
 
-Actualmente aprendiendo:
-- Laravel (estructura MVC y buenas prácticas)
-- React + TypeScript
-- Docker
-- Postman
+* PHP
+* Laravel
+* Python
+* Django
+* APIs REST
+
+**Bases de datos**
+
+* MySQL
+* PostgreSQL
+
+**Datos y automatización**
+
+* pandas
+* openpyxl
+* Procesamiento de Excel y CSV
+* Limpieza, validación y transformación de datos
+
+**Desarrollo web**
+
+* JavaScript
+* HTML5
+* CSS3 / SASS
+
+**Herramientas**
+
+* Git
+* GitHub
+* Postman
+* Docker
+
+---
+
+## 💼 Experiencia práctica
+
+He trabajado en funcionalidades como:
+
+* Desarrollo y mantenimiento de aplicaciones web.
+* Diseño e implementación de lógica de negocio.
+* CRUD y gestión de información.
+* Autenticación, usuarios, roles y permisos.
+* Diseño y consultas sobre bases de datos relacionales.
+* Validación y normalización de información.
+* Importación y exportación de archivos Excel.
+* Procesamiento y automatización de datos con Python.
+* Desarrollo e integración de APIs REST.
+* Corrección de errores y mejora de funcionalidades existentes.
+* Control de versiones y flujo de trabajo con Git/GitHub.
 
 ---
 
@@ -26,46 +69,42 @@ Actualmente aprendiendo:
 
 ### 🏠 Sistema de Gestión Inmobiliaria
 
-Aplicación web full stack desarrollada para la gestión de propiedades, usuarios e información inmobiliaria.
+Aplicación web para administrar propiedades e información inmobiliaria mediante **PHP y MySQL**.
 
-### 🔧 Funcionalidades
+Incluye:
 
-- Sistema de autenticación de usuarios
-- Panel de administración
-- CRUD completo de propiedades
-- Gestión de usuarios e imágenes
-- Validación de datos en frontend y backend
-- Consumo de APIs REST
+* Autenticación de usuarios.
+* Panel de administración.
+* CRUD de propiedades.
+* Gestión de imágenes.
+* Validaciones en frontend y backend.
+* Persistencia de información en MySQL.
+* Integración con servicios externos mediante API.
 
-### 💡 Enfoque del proyecto
+🔗 **Repositorio:** [Bienes-Raices](https://github.com/Joivmat/Bienes-Raices)
+🌐 **Demo:** [bienes-raices.rf.gd](https://bienes-raices.rf.gd/)
 
-Desarrollado como solución funcional para la administración de información inmobiliaria, aplicando buenas prácticas en estructura, validación de datos y organización del código.
-
-### 🔗 Demo
-https://bienes-raices.rf.gd/
-
----
-
-## 💼 Experiencia práctica
-
-- Desarrollo de aplicaciones web full stack
-- Implementación de funcionalidades (CRUD, autenticación, APIs)
-- Diseño y gestión de bases de datos MySQL
-- Mantenimiento y mejora de sistemas existentes
-- Consumo de APIs REST
+> Actualmente estoy ampliando mi portafolio con proyectos enfocados en backend con Django y automatización de datos con Python.
 
 ---
 
-## 📈 Enfoque actual
+## 🎯 Áreas de interés
 
-- Mejores prácticas de desarrollo backend
-- Arquitectura MVC y programación orientada a objetos
-- Optimización y mantenimiento de código
-- Trabajo colaborativo con control de versiones
+Me interesa continuar desarrollándome principalmente en:
+
+* Desarrollo backend.
+* PHP / Laravel.
+* Python / Django.
+* Automatización de procesos con Python.
+* Procesamiento y transformación de datos.
+* Bases de datos y APIs.
+* Mantenimiento y evolución de aplicaciones existentes.
+
+Estoy abierto tanto a **oportunidades profesionales como a proyectos freelance de alcance definido**, especialmente aquellos relacionados con backend, automatización, datos y mejora de sistemas existentes.
 
 ---
 
 ## 📫 Contacto
 
-- LinkedIn: www.linkedin.com/in/josué-iván-mata
-- Email: joivmath@gmail.com
+* **LinkedIn:** [Josué Iván Mata](https://www.linkedin.com/in/josué-iván-mata/)
+* **Email:** [joivmath@gmail.com](mailto:joivmath@gmail.com)
